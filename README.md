@@ -5,4 +5,4 @@ Web developer tinkering with various tools. Sometimes through courses/tutorials 
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on a python data visualization app. 
+- 🔭 I’m currently working on a cheat meal generating app.
