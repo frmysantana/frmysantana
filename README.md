@@ -3,6 +3,6 @@
 
 Web developer tinkering with various tools. Sometimes through courses/tutorials and sometimes through personal projects.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / NodeJS
 
-- 🔭 I’m currently working on a cheat meal generating app.
+- 🔭 I’m currently working on an automatic window blinds opener.
